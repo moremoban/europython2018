@@ -1,14 +1,14 @@
 name: "europython2018"
 organisation: "moremoban"
 author: "C.W."
-contact: "none"
-company: "C.W."
+contact: "wangc_2011@hotmail.com"
+company: "Onni Software Ltd."
 version: "0.0.1"
 current_version: "0.0.1"
-release: "0.0.0"
+release: "0.0.1"
 copyright_year: 2018
 command_line_interface: "ep18"
 entry_point: "europython2018.main:main"
 license: Unlicense
 dependencies: []
-description: "show case"
+description: "show case python package scaffold in 1 minute"

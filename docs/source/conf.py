@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 DESCRIPTION = (
-    'show case' +
+    'show case python package scaffold in 1 minute' +
     ''
 )
 # -*- coding: utf-8 -*-
@@ -24,11 +24,11 @@ DESCRIPTION = (
 # -- Project information -----------------------------------------------------
 
 project = u'europython2018'
-copyright = u'2018 C.W.'
+copyright = u'2018 Onni Software Ltd.'
 author = u'C.W.'
 
 # The short X.Y version
-version = u'0.0.0'
+version = u'0.0.1'
 # The full version, including alpha/beta/rc tags
 release = u'0.0.1'
 
@@ -137,7 +137,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'europython2018.tex', u'europython2018 Documentation',
-     u'C.W.', 'manual'),
+     u'Onni Software Ltd.', 'manual'),
 ]
 
 
@@ -174,7 +174,7 @@ html_theme = 'default'
 texinfo_documents = [
     ('index', 'europython2018',
      'europython2018 Documentation',
-     'C.W.', 'europython2018',
+     'Onni Software Ltd.', 'europython2018',
      DESCRIPTION,
      'Miscellaneous'),
 ]
